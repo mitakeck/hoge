@@ -1,0 +1,1 @@
+processing-java --sketch=/home/mitake/test --output=/home/mitake/test/output --export --force --platform=linux --bits=32
